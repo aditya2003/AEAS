@@ -14,7 +14,7 @@ Run the following commands and open the web2py admin interface in your browser.
 cd web2py
 python web2py.py
 
-A web2py application "web2py.app.deployed.w2p" is included in the CD. Install it in your web2py through your admin interface.
+A web2py application "web2py.app.deployed.w2p" is included. Install it in your web2py through your admin interface.
 
 Click the installed app. You are redirected to CAS Login. Authenticate yourself with a valid student/faculty id.
 (Currently, the system's database isn't updated with all the email ids in IIIT. So you might not be able to login with your ID. Contact the developers below to get a temporary id.) 
